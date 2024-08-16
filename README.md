@@ -14,7 +14,7 @@ First `make`, then run
 ```
 
 For analysis, edit and run experiments.py and observations.py:
-'python3 experiments.py'
-'python3 observations.py`
+`python3 experiments.py`
+`python3 observations.py`
 
 You can change your interpreter to `python` if applicable.
