@@ -21,4 +21,4 @@ For analysis, edit and run experiments.py and observations.py:
 
 You can change your interpreter to `python` if applicable.
 
-Notes: The report outlines the explanations for the observed trends and aims to determine the best configuration for the trace.
+Note: The report outlines the explanations for the observed trends and aims to determine the best configuration for the trace.
