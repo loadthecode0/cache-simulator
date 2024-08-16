@@ -1,3 +1,5 @@
+Cache Simulator (to record Hit and Miss times and rates) made as a part of COL216 (Computer Architecture) course at IIT Delhi, Semester 2, 2023-24.
+
 To compile into executable:
 `make`
 
